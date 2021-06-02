@@ -1,0 +1,17 @@
+{
+  "name": "spcetrontest",
+  "version": "1.0.0",
+  "description": "spectron test app si",
+  "main": "runtest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hxe",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^13.0.0",
+    "eslint": "^7.27.0",
+    "spectron": "^15.0.0"
+  },
+  "dependencies": {}
+}
