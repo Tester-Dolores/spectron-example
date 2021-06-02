@@ -3,8 +3,11 @@
 1. 安装依赖
 
 electron@13.0.1
+
 spectron@15.0.0
+
 mocha@8.4.0
+
 mochawesome@6.2.2
 
 
@@ -25,7 +28,9 @@ Current browser version is 80.0.3987.165 with binary path d:\study\spcetron\node
 
 [chromedriver下载](https://chromedriver.chromium.org/downloads)
 
-解决方案2： 下载对应的浏览器版本（80.0.3987.165）
+解决方案2： 
+
+下载对应的浏览器版本（80.0.3987.165）
 
 3. 运行
 
