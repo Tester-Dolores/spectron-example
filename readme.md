@@ -38,5 +38,9 @@ Current browser version is 80.0.3987.165 with binary path d:\study\spcetron\node
 
 `mocha runtest`
 
+原本的命令： `mocha test --reporter mochawesome --reporter-options reportFilename=customReportFilename,overwrite=false` (鬼记得住...)
+
+后面发现mochawesome必须依赖mocha存在，mochawesome又没有配置文件，去看了下mocha文档发现有configuration file,然后又找到了[sample](https://github.com/mochajs/mocha/blob/master/example/config/.mocharc.js)，果然有reporter配置参数...
+
 
 **如果您有任何问题...请先google...**
