@@ -44,3 +44,5 @@ Current browser version is 80.0.3987.165 with binary path d:\study\spcetron\node
 
 
 **如果您有任何问题...请先google...**
+
+**If you have any questions... Please Google first...**
